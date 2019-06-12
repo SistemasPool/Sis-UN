@@ -1,0 +1,19 @@
+[17-Sep-2018 18:11:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:11:25 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/index.php on line 3
+[17-Sep-2018 18:12:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'unibienes_facuni'@'localhost' (using password: YES) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:12:51 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/index.php on line 3
+[17-Sep-2018 18:12:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'unibienes_facuni'@'localhost' (using password: YES) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:12:54 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/index.php on line 3
+[17-Sep-2018 18:13:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'unibiene_facuni'@'localhost' (using password: YES) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:13:21 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/index.php on line 3
+[17-Sep-2018 18:13:42 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'unibiene_facuni'@'localhost' (using password: YES) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:13:43 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'unibiene_facuni'@'localhost' (using password: YES) in /home/unibiene/public_html/facturacion/index.php on line 2
+[17-Sep-2018 18:18:45 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/unibiene/public_html/facturacion/reporte.php on line 59
+[17-Sep-2018 18:18:45 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/reporte.php on line 60
+[17-Sep-2018 18:18:45 America/Argentina/Buenos_Aires] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/unibiene/public_html/facturacion/reporte.php on line 64
+[17-Sep-2018 18:18:45 America/Argentina/Buenos_Aires] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/unibiene/public_html/facturacion/reporte.php on line 65
+[17-Sep-2018 17:19:39 America/La_Paz] PHP Warning:  include(qr/qr/qrlib.php): failed to open stream: No existe el fichero o el directorio in /home/unibiene/public_html/facturacion/reporte.php on line 372
+[17-Sep-2018 17:19:39 America/La_Paz] PHP Warning:  include(qr/qr/qrlib.php): failed to open stream: No existe el fichero o el directorio in /home/unibiene/public_html/facturacion/reporte.php on line 372
+[17-Sep-2018 17:19:39 America/La_Paz] PHP Warning:  include(): Failed opening 'qr/qr/qrlib.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/unibiene/public_html/facturacion/reporte.php on line 372
+[17-Sep-2018 17:19:39 America/La_Paz] PHP Warning:  mkdir(): No existe el fichero o el directorio in /home/unibiene/public_html/facturacion/reporte.php on line 377
+[17-Sep-2018 17:19:39 America/La_Paz] PHP Fatal error:  Class 'QRcode' not found in /home/unibiene/public_html/facturacion/reporte.php on line 400
